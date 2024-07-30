@@ -4,6 +4,7 @@ import Navbar from "react-bootstrap/Navbar";
 import React from "react";
 import CartWidget from "./CartWidget";
 import { NavLink } from "react-router-dom";
+import { IoHome } from "react-icons/io5";
 
 const NavBar = () => {
   return (
@@ -11,7 +12,7 @@ const NavBar = () => {
       <Container className="w-100">
         <Nav className="me-auto">
           <Nav.Link as={NavLink} to="/">
-            Home
+            <IoHome />
           </Nav.Link>
           <Nav.Link as={NavLink} to="/category/Mujer">
             Mujer
