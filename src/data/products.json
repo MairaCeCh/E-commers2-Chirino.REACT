@@ -1,70 +1,70 @@
 [
   {
     "id": 1,
-    "img": "https://example.com/images/zapato1.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqON99mHbsL7AJeE4h9kGMk4ix7dG9bvFEdQ&s",
     "category": "Mujer",
     "model": "Zapato de tacón alto",
     "detail": "Zapato de tacón alto en color negro, ideal para eventos formales."
   },
   {
     "id": 2,
-    "img": "https://example.com/images/zapato2.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf19HzKIqTnl6Wu-XDpKsohZFP4R2ApI_DsQ&s",
     "category": "Hombre",
     "model": "Zapato Oxford",
     "detail": "Zapato Oxford de cuero en color marrón, perfecto para ocasiones formales."
   },
   {
     "id": 3,
-    "img": "https://example.com/images/zapato3.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcjxDOoIX4SjBFC0yhUYoxXj0WIafwp4bBw&s",
     "category": "Niño",
     "model": "Zapatilla deportiva",
     "detail": "Zapatilla deportiva para niños, con diseño colorido y cómodo."
   },
   {
     "id": 4,
-    "img": "https://example.com/images/zapato4.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2C2XLqfHK6baNhCc5qiHt2MVWpVh87lEUQ&s",
     "category": "Mujer",
     "model": "Sandalia plana",
     "detail": "Sandalia plana en color beige, ideal para el verano."
   },
   {
     "id": 5,
-    "img": "https://example.com/images/zapato5.jpg",
+    "img": "https://img.joomcdn.net/fac3c6656471c04efecd7817f03bdcb003b1f56b_400_400.jpeg",
     "category": "Hombre",
     "model": "Bota de montaña",
     "detail": "Bota de montaña resistente al agua, ideal para excursiones."
   },
   {
     "id": 6,
-    "img": "https://example.com/images/zapato6.jpg",
+    "img": "https://ae01.alicdn.com/kf/S0b5e50ac5bc54e6b827659e401690c53L/Zapatos-planos-de-punta-estrecha-para-mujer-calzado-de-trabajo-de-buena-calidad-Color-s-lido.jpg",
     "category": "Mujer",
     "model": "Bailarina",
     "detail": "Zapato tipo bailarina en color rojo, cómodo y elegante."
   },
   {
     "id": 7,
-    "img": "https://example.com/images/zapato7.jpg",
+    "img": "https://http2.mlstatic.com/D_619233-MLA77624202895_072024-C.jpg",
     "category": "Hombre",
     "model": "Mocasín",
     "detail": "Mocasín de cuero en color negro, versátil y cómodo."
   },
   {
     "id": 8,
-    "img": "https://example.com/images/zapato8.jpg",
+    "img": "https://http2.mlstatic.com/D_955205-MLA70544872981_072023-C.jpg",
     "category": "Niño",
     "model": "Botas de lluvia",
     "detail": "Botas de lluvia para niños, con diseño de dibujos animados."
   },
   {
     "id": 9,
-    "img": "https://example.com/images/zapato9.jpg",
+    "img": "https://thumbs.nosto.com/quick/rbxh5h46/8/697861_alt_7f83fc702b22d80b68bafeec32e7565099347195f7988a7c9439355c67e98d9e/21b37438e45c012346aa7521afc71db8a41d6d27cfd8713161e710d826b417cd/A",
     "category": "Mujer",
     "model": "Zapatilla de correr",
     "detail": "Zapatilla de correr con amortiguación, ideal para entrenamiento."
   },
   {
     "id": 10,
-    "img": "https://example.com/images/zapato10.jpg",
+    "img": "https://avatarshoes.com/16517-medium_default/raquel-perez-zapato-elliot-marino-hombre.jpg",
     "category": "Hombre",
     "model": "Zapato casual",
     "detail": "Zapato casual en color azul marino, adecuado para el día a día."
