@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "img": "https://example.com/images/zapato1.jpg",
+    "category": "Mujer",
+    "model": "Zapato de tacón alto",
+    "detail": "Zapato de tacón alto en color negro, ideal para eventos formales."
+  },
+  {
+    "id": 2,
+    "img": "https://example.com/images/zapato2.jpg",
+    "category": "Hombre",
+    "model": "Zapato Oxford",
+    "detail": "Zapato Oxford de cuero en color marrón, perfecto para ocasiones formales."
+  },
+  {
+    "id": 3,
+    "img": "https://example.com/images/zapato3.jpg",
+    "category": "Niño",
+    "model": "Zapatilla deportiva",
+    "detail": "Zapatilla deportiva para niños, con diseño colorido y cómodo."
+  },
+  {
+    "id": 4,
+    "img": "https://example.com/images/zapato4.jpg",
+    "category": "Mujer",
+    "model": "Sandalia plana",
+    "detail": "Sandalia plana en color beige, ideal para el verano."
+  },
+  {
+    "id": 5,
+    "img": "https://example.com/images/zapato5.jpg",
+    "category": "Hombre",
+    "model": "Bota de montaña",
+    "detail": "Bota de montaña resistente al agua, ideal para excursiones."
+  },
+  {
+    "id": 6,
+    "img": "https://example.com/images/zapato6.jpg",
+    "category": "Mujer",
+    "model": "Bailarina",
+    "detail": "Zapato tipo bailarina en color rojo, cómodo y elegante."
+  },
+  {
+    "id": 7,
+    "img": "https://example.com/images/zapato7.jpg",
+    "category": "Hombre",
+    "model": "Mocasín",
+    "detail": "Mocasín de cuero en color negro, versátil y cómodo."
+  },
+  {
+    "id": 8,
+    "img": "https://example.com/images/zapato8.jpg",
+    "category": "Niño",
+    "model": "Botas de lluvia",
+    "detail": "Botas de lluvia para niños, con diseño de dibujos animados."
+  },
+  {
+    "id": 9,
+    "img": "https://example.com/images/zapato9.jpg",
+    "category": "Mujer",
+    "model": "Zapatilla de correr",
+    "detail": "Zapatilla de correr con amortiguación, ideal para entrenamiento."
+  },
+  {
+    "id": 10,
+    "img": "https://example.com/images/zapato10.jpg",
+    "category": "Hombre",
+    "model": "Zapato casual",
+    "detail": "Zapato casual en color azul marino, adecuado para el día a día."
+  }
+]
