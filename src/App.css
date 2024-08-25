@@ -1,39 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap");
+
 #root {
   max-width: 1280px;
-  margin: 0 auto;
+  margin: 60px auto 45px auto;
+  -webkit-box-shadow: 9px 9px 11px -6px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 9px 9px 11px -6px rgba(0, 0, 0, 0.25);
+  box-shadow: 9px 9px 11px -6px rgba(0, 0, 0, 0.25);
   padding: 2rem;
   text-align: center;
+  background: #f5eded;
+  border-radius: 10px;
+  font-family: "Dancing Script", cursive;
 }
 body {
-  padding-top: 56px; /* Ajusta este valor según la altura de tu Navbar */
-}
-
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+  padding-top: 56px;
 }
 
 .card {
@@ -42,4 +22,22 @@ body {
 
 .read-the-docs {
   color: #888;
+}
+
+.navbar {
+  background: #f5eded;
+  border-bottom: 1px solid #e3cdcd;
+}
+.ioHome {
+  color: mediumturquoise;
+  font-size: 50px;
+}
+
+.carrito {
+  font-size: 50px;
+  color: mediumturquoise;
+}
+
+.productos {
+  margin-bottom: 40px;
 }
