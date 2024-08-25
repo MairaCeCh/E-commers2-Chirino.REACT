@@ -36,9 +36,6 @@ export const ItemsCount = ({ stock, onAdd }) => {
           Al carrito
         </button>
         <Volver />
-        {/* <button className="m-2" onClick={() => navigate("/")}>
-          Volver
-        </button> */}
       </div>
     </>
   );
