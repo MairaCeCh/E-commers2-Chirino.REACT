@@ -13,8 +13,8 @@ Aplicación web de e-commerce construida con **React**, **Firebase** y **Bootstr
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/zapatos-ecommerce.git
-cd zapatos-ecommerce
+git clone https://github.com/MairaCeCh/E-commersFinal-Chirino.REACT.git
+
 
 # Instala las dependencias
 npm install
